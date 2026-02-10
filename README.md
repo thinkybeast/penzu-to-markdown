@@ -1,4 +1,4 @@
-# Penzu to Obsidian
+# Penzu to Markdown
 
 Extracts journal entries from a Penzu PDF export into individual Markdown files for Obsidian.
 
